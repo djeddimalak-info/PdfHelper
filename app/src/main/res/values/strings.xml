@@ -1,0 +1,6 @@
+<resources>
+    <string name="suivant">Suivant</string>
+    <string name="app_name">My Helper</string>
+    <string name="pdf_image_desc">Image représentant un fichier PDF</string>
+
+</resources>
